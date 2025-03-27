@@ -17,3 +17,6 @@ docker compose -f docker-compose.yml down
 
 Kafka GUI tool :
 https://kafkatool.com/index.html
+
+Other link
+https://www.baeldung.com/ops/kafka-docker-setup
